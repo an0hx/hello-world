@@ -1,2 +1,2 @@
 # hello-world
-fortune favors the bold
+two wrongs dont make a right
